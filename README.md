@@ -1,4 +1,3 @@
-# Tris-Hub
 Welcome to Tris Hub Premium
 print("Break");
 local v0 = require(game:GetService("ReplicatedStorage").Notification);
